@@ -1,0 +1,11 @@
+# ignore all .exe files
+*.exe
+
+# ignore all .DS_Store files
+*.DS_Store
+
+# ignore all c9 files
+*.c9
+
+# ignore os files
+*.eslintrc
