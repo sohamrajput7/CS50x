@@ -1,0 +1,14 @@
+0.  It is an obscure term ostensibly referring to a lung disease caused by silica dust, sometimes cited as one of the longest words in the English language.
+1.  Returns resource usage measures for its parameter 'who'
+2.  16
+3.  The size of the struct would be 'too big' to pass by value.
+4.  speller.c reads words from a file, character by character, using the 'for' loop to begin reading from the start of the file, incrementing by one character 
+    till 'End Of File' is reached. If the character is an alphabet or an apostrophe, is is added to a word. Th word is ignored if it consists of a digit 
+    or is greater than the defined largest word possible. If a word still exists, it is counted, checked for spelling, and printed and the benchmark is 
+    updated.
+5.  To identify numbers and other punctuations except apostrophe, which are then deemed invalid.
+6.  Because word[LENGTH] and DICTIONARY are declared as constants.
+7.  I used a hash table. I implemented a hash function, which would take in thw word as an argument and return an integer.
+8.  At first, it took around 4 seconds.
+9.  Updated the check function, coded it from scratch.
+10. A few memory leaks.

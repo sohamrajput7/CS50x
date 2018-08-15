@@ -1,0 +1,13 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+1. The dimensions are defined by the constants DIM_MIN and DIM_MAX, 3 and 9 respectively.
+   Besides 4x4, the framework allows 3x3, 5x5, 6x6, 7x7, 8x8 and 9x9 board dimensions.
+   
+2. The game board is represented by a 2D array.
+
+3. greet() is called to greet the players.
+
+4. init(), draw(), move(), and won().
